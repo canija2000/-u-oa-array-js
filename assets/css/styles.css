@@ -1,0 +1,85 @@
+ul{
+    text-decoration: dotted;
+    list-style: circle;
+}
+header{
+    background-color: #f5f5f5;
+    padding: 10px;
+   
+    margin-bottom: 20px;
+    text-align: center;
+    width: 74rem;
+    margin: 20px auto;
+
+}
+main{
+    margin: 0 auto 60px;
+    width: 80%;
+    background-color: rgba(249, 254, 255, 0.919);
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px black solid;
+}
+body{
+    background-color: #f5f5f5;
+    font-family: PT Sans, sans-serif;
+    background-image: url("/assets/imgs/image1.avif");
+    background-position: 50% 0;
+    
+
+    
+}
+
+h1{
+    font-family: PT Sans, sans-serif;
+    font-size: 50px;
+    color: #000000;
+    text-align: center;    
+    width: 80%;
+    padding: 10px;
+    margin: 40px auto;
+    
+    
+    
+}
+
+h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 30px;
+    color: #000000;
+    text-align: justify;
+    margin: 20px;
+  
+    padding: 20px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    color: #000000;
+    text-align: justify;
+    padding: 5px;
+}
+
+ol{
+    text-decoration: dotted;
+    list-style: decimal;
+    text-align: justify;
+}
+
+li{
+    font-family: PT Sans, sans-serif;
+    font-size: 15px;
+    color: #000000;
+    text-align: justify;
+    display: list-item;
+    list-style-position: outside;
+
+}
+.bold{
+    font-size: 19px;
+    background-color: rgb(170, 247, 255);
+    padding-left: 15px;
+    border-radius: 5px;
+}
